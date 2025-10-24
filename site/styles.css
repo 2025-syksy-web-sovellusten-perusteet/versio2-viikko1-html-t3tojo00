@@ -7,6 +7,7 @@ h1{
     background-color: rgb(90, 139, 141);
 }
 nav{
+    visibility: visible;
     height:50px;
     text-align: center;
     font-size-adjust:200%;
